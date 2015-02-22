@@ -1,0 +1,603 @@
+coach_id	coach_name	workedfor_id	workedfor_name	role
+3	Dennis Allen	140	John Fox	Defensive Coordinator
+3	Dennis Allen	289	Jim Mora	Defensive Assistant/Quality Control
+3	Dennis Allen	317	Sean Payton	Asst. Defensive Line, Secondary
+3	Dennis Allen	338	Dan Reeves	Defensive Assistant/Quality Control
+7	Bruce Arians	83	Bill Cowher	Wide Receivers
+7	Bruce Arians	91	Butch Davis	Offensive Coordinator
+7	Bruce Arians	289	Jim Mora	Tight Ends, Quarterbacks
+7	Bruce Arians	310	Chuck Pagano	Offensive Coordinator/Interim Head Coach
+7	Bruce Arians	374	Marty Schottenheimer	Running Backs
+7	Bruce Arians	431	Mike Tomlin	Offensive Coordinator
+7	Bruce Arians	440	Rick Venturi	Tight Ends
+9	Neill Armstrong	159	Bud Grant	Defensive Coordinator
+10	Bill Arnsparger	355	Bobby Ross	Defensive Coordinator
+10	Bill Arnsparger	389	Don Shula	Defensive Coordinator
+16	Jim Bates	215	June Jones	Defensive Coordinator
+16	Jim Bates	384	Mike Sherman	Defensive Coordinator
+16	Jim Bates	450	Dave Wannstedt	Defensive Coordinator
+21	Bill Belichick	139	Rick Forzano	Assistant Special Teams
+21	Bill Belichick	198	Tommy Hudspeth	Assistant Special Teams/TEs/WRs, Assistant Special Teams
+21	Bill Belichick	253	Ted Marchibroda	Special Assistant
+21	Bill Belichick	283	Red Miller	Assistant Special Teams/Defensive Assistant
+21	Bill Belichick	313	Bill Parcells	Assistant Head Coach/Secondary, Defensive Coordinator, Defensive Coordinator/Secondary, Linebackers
+21	Bill Belichick	319	Ray Perkins	Special Teams/Linebackers, Special Teams
+28	Tom Bettis	172	Jim Hanifan	Defensive Coordinator
+28	Tom Bettis	374	Marty Schottenheimer	Defensive Coordinator
+28	Tom Bettis	458	Paul Wiggin	Defensive Coordinator
+28	Tom Bettis	461	Bud Wilkinson	Defensive Coordinator
+28	Tom Bettis	467	Larry Wilson	Defensive Coordinator
+31	Ed Biles	326	Bum Phillips	Defensive Coordinator
+32	Brian Billick	160	Dennis Green	Tight Ends, Offensive Coordinator, Offensive Coordinator/Tight Ends
+36	Todd Bowles	7	Bruce Arians	Defensive Coordinator
+36	Todd Bowles	91	Butch Davis	Secondary (nickel package), Secondary
+36	Todd Bowles	164	Al Groh	Secondary
+36	Todd Bowles	193	Mike Holmgren	Player Personnel Staff
+36	Todd Bowles	313	Bill Parcells	Secondary
+36	Todd Bowles	327	Wade Phillips	Secondary
+36	Todd Bowles	339	Andy Reid	Secondary/Interim Defensive Coordinator
+36	Todd Bowles	400	Tony Sparano	Asst. Head Coach/Secondary, Interim Head Coach/Secondary
+37	Gus Bradley	59	Pete Carroll	Defensive Coordinator
+37	Gus Bradley	166	Jon Gruden	Defensive Quality Control Asst., Linebackers Coach
+37	Gus Bradley	289	Jim Mora	Defensive Coordinator
+44	Rich Brooks	338	Dan Reeves	Defensive Coordinator
+46	Fred Bruney	56	Marion Campbell	Defensive Coordinator
+46	Fred Bruney	318	Pat Peppler	Defensive Coordinator
+46	Fred Bruney	319	Ray Perkins	Defensive Coordinator
+46	Fred Bruney	464	Richard Williamson	Defensive Coordinator
+48	Joe Bugel	148	Joe Gibbs	Offensive Coordinator
+48	Joe Bugel	457	Mike White	Offensive Coordinator
+49	Hank Bullough	123	Chuck Fairbanks	Defensive Coordinator
+49	Hank Bullough	137	Wayne Fontes	Defensive Coordinator
+49	Hank Bullough	161	Forrest Gregg	Defensive Coordinator
+49	Hank Bullough	204	Lindy Infante	Defensive Coordinator
+49	Hank Bullough	407	Kay Stephenson	Defensive Coordinator
+50	Jerry Burns	159	Bud Grant	Offensive Coordinator
+50	Jerry Burns	406	Les Steckel	Offensive Coordinator
+51	Tom Cable	59	Pete Carroll	Assistant Head Coach/Offensive Line
+51	Tom Cable	223	Lane Kiffin	Offensive Line/Interim Head Coach, Offensive Line
+51	Tom Cable	289	Jim Mora	Offensive Line
+52	Jim Caldwell	112	Tony Dungy	Quarterbacks, Assistant Head Coach/Quarterbacks
+52	Jim Caldwell	177	John Harbaugh	Offensive Coordinator, Quarterbacks/Interim Offensive Coordinator
+53	Bill Callahan	146	Jason Garrett	Offensive Coordinator/Offensive Line, Offensive Coordinator
+53	Bill Callahan	166	Jon Gruden	Offensive Coordinator/Offensive Line, Offensive Coordinator/Tight Ends
+53	Bill Callahan	252	Eric Mangini	Assistant Head Coach/Offensive Line
+53	Bill Callahan	340	Ray Rhodes	Offensive Line
+53	Bill Callahan	361	Rex Ryan	Assistant Head Coach
+54	Cam Cameron	177	John Harbaugh	Offensive Coordinator
+54	Cam Cameron	374	Marty Schottenheimer	Offensive Coordinator
+54	Cam Cameron	437	Norv Turner	Quarterbacks
+56	Marion Campbell	186	Dan Henning	Defensive Coordinator
+56	Marion Campbell	439	Norm Van Brocklin	Defensive Coordinator
+56	Marion Campbell	441	Dick Vermeil	Defensive Coordinator
+57	Dave Campo	91	Butch Davis	Defensive Coordinator
+57	Dave Campo	94	Jack Del Rio	Secondary
+57	Dave Campo	143	Chan Gailey	Defensive Coordinator
+57	Dave Campo	146	Jason Garrett	Secondary
+57	Dave Campo	212	Jimmy Johnson	Defensive Assistant, Defensive Backs
+57	Dave Campo	327	Wade Phillips	Secondary
+57	Dave Campo	419	Barry Switzer	Defensive Backs, Defensive Coordinator
+58	Dom Capers	54	Cam Cameron	Defensive Coordinator
+58	Dom Capers	82	Tom Coughlin	Defensive Coordinator
+58	Dom Capers	83	Bill Cowher	Defensive Coordinator
+58	Dom Capers	262	Mike McCarthy	Defensive Coordinator
+58	Dom Capers	289	Jim Mora	Defensive Backs
+58	Dom Capers	364	Nick Saban	Defensive Coordinator
+59	Pete Carroll	50	Jerry Burns	Defensive Backs
+59	Pete Carroll	80	Bruce Coslet	Defensive Coordinator
+59	Pete Carroll	159	Bud Grant	Defensive Backs
+59	Pete Carroll	378	George Seifert	Defensive Coordinator
+59	Pete Carroll	407	Kay Stephenson	Defensive Backs
+60	Bud Carson	227	Rich Kotite	Defensive Coordinator
+60	Bud Carson	234	Frank Kush	Defensive Coordinator
+60	Bud Carson	247	John Mackovic	Defensive Coordinator
+60	Bud Carson	251	Ray Malavasi	Defensive Coordinator
+60	Bud Carson	305	Chuck Noll	Defensive Coordinator
+60	Bud Carson	441	Dick Vermeil	Defensive Coordinator
+60	Bud Carson	449	Joe Walton	Defensive Coordinator
+66	Brad Childress	108	Rod Dowhower	Quarterbacks
+66	Brad Childress	339	Andy Reid	Offensive Coordinator, Spread Game Analyst, Quarterbacks
+66	Brad Childress	390	Pat Shurmur	Offensive Coordinator
+68	Rob Chudzinski	85	Romeo Crennel	Offensive Coordinator
+68	Rob Chudzinski	91	Butch Davis	Offensive Coordinator/Tight Ends
+68	Rob Chudzinski	310	Chuck Pagano	Special Asst. to Head Coach
+68	Rob Chudzinski	345	Ron Rivera	Offensive Coordinator
+68	Rob Chudzinski	374	Marty Schottenheimer	Tight Ends
+68	Rob Chudzinski	437	Norv Turner	Tight Ends/Assistant HC
+71	Monte Clark	389	Don Shula	Offensive Coordinator
+75	Joe Collier	248	Dick MacPherson	Defensive Coordinator
+75	Joe Collier	283	Red Miller	Defensive Coordinator
+75	Joe Collier	334	John Ralston	Defensive Coordinator
+75	Joe Collier	338	Dan Reeves	Defensive Coordinator
+80	Bruce Coslet	57	Dave Campo	Offensive Coordinator
+80	Bruce Coslet	388	David Shula	Offensive Coordinator
+80	Bruce Coslet	471	Sam Wyche	Offensive Coordinator
+82	Tom Coughlin	46	Fred Bruney	Wide Receivers
+82	Tom Coughlin	56	Marion Campbell	Wide Receivers
+82	Tom Coughlin	161	Forrest Gregg	Wide Receivers
+82	Tom Coughlin	313	Bill Parcells	Wide Receivers
+83	Bill Cowher	374	Marty Schottenheimer	Special Teams, Defensive Coordinator, Secondary
+85	Romeo Crennel	21	Bill Belichick	Defensive Coordinator/Defensive Line, Defensive Coordinator
+85	Romeo Crennel	169	Todd Haley	Defensive Coordinator
+85	Romeo Crennel	171	Ray Handley	Defensive Line
+85	Romeo Crennel	307	Bill O'Brien	Defensive Coordinator
+85	Romeo Crennel	312	Chris Palmer	Defensive Coordinator/Defensive Line
+85	Romeo Crennel	313	Bill Parcells	Defensive Line, Special Teams
+85	Romeo Crennel	319	Ray Perkins	Special Teams/Defensive Assistant
+88	Gunther Cunningham	52	Jim Caldwell	Sr. Coaching Assistant
+88	Gunther Cunningham	115	Herman Edwards	Defensive Coordinator
+88	Gunther Cunningham	133	Jeff Fisher	Assistant Head Coach/Linebackers
+88	Gunther Cunningham	374	Marty Schottenheimer	Defensive Coordinator
+88	Gunther Cunningham	375	Jim Schwartz	Defensive Coordinator
+88	Gunther Cunningham	382	Art Shell	Defensive Coordinator
+88	Gunther Cunningham	441	Dick Vermeil	Defensive Coordinator
+91	Butch Davis	212	Jimmy Johnson	Defensive Line, Defensive Coordinator/Linebackers
+91	Butch Davis	370	Greg Schiano	Special Advisor
+91	Butch Davis	419	Barry Switzer	Defensive Coordinator/Linebackers
+94	Jack Del Rio	32	Brian Billick	Linebackers
+94	Jack Del Rio	101	Mike Ditka	Strength and Conditioning
+94	Jack Del Rio	140	John Fox	Defensive Coordinator
+108	Rod Dowhower	56	Marion Campbell	Offensive Coordinator
+108	Rod Dowhower	172	Jim Hanifan	Offensive Coordinator
+108	Rod Dowhower	283	Red Miller	Offensive Coordinator
+108	Rod Dowhower	321	Richie Petitbon	Offensive Coordinator
+108	Rod Dowhower	338	Dan Reeves	Offensive Coordinator
+108	Rod Dowhower	339	Andy Reid	Offensive Coordinator
+111	Chuck Drulis	192	Bob Hollway	Defensive Coordinator
+112	Tony Dungy	160	Dennis Green	Defensive Coordinator
+112	Tony Dungy	305	Chuck Noll	Defensive Assistant, Defensive Coordinator, Defensive Backs
+112	Tony Dungy	374	Marty Schottenheimer	Defensive Backs
+115	Herman Edwards	112	Tony Dungy	Assistant Head Coach/Defensive Backs
+115	Herman Edwards	374	Marty Schottenheimer	Scout, Defensive Backs
+118	Ron Erhardt	83	Bill Cowher	Offensive Coordinator
+118	Ron Erhardt	123	Chuck Fairbanks	Offensive Coordinator
+118	Ron Erhardt	227	Rich Kotite	Offensive Coordinator
+118	Ron Erhardt	313	Bill Parcells	Offensive Coordinator
+118	Ron Erhardt	319	Ray Perkins	Offensive Coordinator
+125	Jim Fassel	32	Brian Billick	Offensive Coordinator
+125	Jim Fassel	171	Ray Handley	Offensive Coordinator
+125	Jim Fassel	327	Wade Phillips	Offensive Coordinator
+125	Jim Fassel	428	Vince Tobin	Offensive Coordinator
+128	Tom Fears	221	Ed Khayat	Offensive Coordinator
+128	Tom Fears	463	Jerry Williams	Offensive Coordinator
+130	Perry Fewell	82	Tom Coughlin	Defensive Backs, Defensive Coordinator
+130	Perry Fewell	208	Dick Jauron	Defensive Coordinator, DC/Interim Head Coach
+130	Perry Fewell	258	Mike Martz	Secondary
+130	Perry Fewell	396	Lovie Smith	Defensive Backs
+133	Jeff Fisher	314	Jack Pardee	Defensive Coordinator/Interim Head Coach
+133	Jeff Fisher	349	John Robinson	Defensive Coordinator
+133	Jeff Fisher	360	Buddy Ryan	Defensive Backs, Defensive Coordinator/Linebackers
+133	Jeff Fisher	378	George Seifert	Defensive Backs
+137	Wayne Fontes	271	John McKay	Defensive Coordinator
+137	Wayne Fontes	352	Darryl Rogers	Defensive Coordinator
+140	John Fox	44	Rich Brooks	Consultant
+140	John Fox	125	Jim Fassel	Defensive Coordinator
+140	John Fox	305	Chuck Noll	Defensive Backs
+140	John Fox	355	Bobby Ross	Defensive Backs
+140	John Fox	382	Art Shell	Defensive Coordinator
+140	John Fox	457	Mike White	Defensive Coordinator
+141	Leslie Frazier	66	Brad Childress	Assistant Head Coach/Defensive Coordinator, Defensive Coordinator
+141	Leslie Frazier	112	Tony Dungy	Defensive Backs
+141	Leslie Frazier	243	Marvin Lewis	Defensive Coordinator
+141	Leslie Frazier	339	Andy Reid	Defensive Backs
+141	Leslie Frazier	396	Lovie Smith	Defensive Coordinator
+143	Chan Gailey	83	Bill Cowher	Offensive Coordinator, Wide Receivers
+143	Chan Gailey	115	Herman Edwards	Offensive Coordinator
+143	Chan Gailey	338	Dan Reeves	Special Teams/Tight Ends, Offensive Coordinator/Receivers, Quarterbacks, Tight Ends/Receivers
+143	Chan Gailey	450	Dave Wannstedt	Offensive Coordinator
+146	Jason Garrett	327	Wade Phillips	Assistant Head Coach/Offensive Coordinator, Offensive Coordinator
+146	Jason Garrett	364	Nick Saban	Quarterbacks
+148	Joe Gibbs	79	Don Coryell	Offensive Coordinator
+148	Joe Gibbs	271	John McKay	Offensive Coordinator
+149	Abe Gibron	271	John McKay	Defensive Coordinator
+151	Kevin Gilbride	82	Tom Coughlin	Offensive Coordinator
+151	Kevin Gilbride	83	Bill Cowher	Offensive Coordinator
+151	Kevin Gilbride	156	Jerry Glanville	Offensive Coordinator
+151	Kevin Gilbride	314	Jack Pardee	Offensive Coordinator
+151	Kevin Gilbride	462	Gregg Williams	Offensive Coordinator
+156	Jerry Glanville	24	Leeman Bennett	Defensive Coordinator
+156	Jerry Glanville	55	Hugh Campbell	Defensive Coordinator
+164	Al Groh	21	Bill Belichick	Linebackers
+164	Al Groh	56	Marion Campbell	Special Teams/Tight Ends
+164	Al Groh	171	Ray Handley	Defensive Coordinator
+164	Al Groh	313	Bill Parcells	Defensive Coordinator/Linebackers, Linebackers
+165	Jay Gruden	166	Jon Gruden	Offensive Assistant
+165	Jay Gruden	243	Marvin Lewis	Offensive Coordinator
+166	Jon Gruden	193	Mike Holmgren	Wide Receivers, Offensive Assistant
+166	Jon Gruden	340	Ray Rhodes	Offensive Coordinator
+166	Jon Gruden	378	George Seifert	Offensive Assistant
+169	Todd Haley	164	Al Groh	Wide Receivers
+169	Todd Haley	208	Dick Jauron	Wide Receivers
+169	Todd Haley	313	Bill Parcells	Offensive Assistant/Quality Control, Wide Receivers/Passing Game Coordinator, Wide Receivers
+169	Todd Haley	431	Mike Tomlin	Offensive Coordinator
+169	Todd Haley	456	Ken Whisenhunt	Offensive Coordinator
+176	Jim Harbaugh	53	Bill Callahan	Quarterbacks
+177	John Harbaugh	339	Andy Reid	Special Teams Coordinator, Secondary/Safeties
+177	John Harbaugh	340	Ray Rhodes	Special Teams Coordinator
+178	Jim Haslett	83	Bill Cowher	Defensive Coordinator
+178	Jim Haslett	244	Scott Linehan	Interim HC/Defensive Coordinator, Defensive Coordinator
+178	Jim Haslett	289	Jim Mora	Defensive Coordinator, Linebackers
+178	Jim Haslett	379	Mike Shanahan	Defensive Coordinator
+178	Jim Haslett	382	Art Shell	Linebackers
+178	Jim Haslett	440	Rick Venturi	Defensive Coordinator
+186	Dan Henning	137	Wayne Fontes	Offensive Coordinator
+186	Dan Henning	140	John Fox	Offensive Coordinator
+186	Dan Henning	164	Al Groh	Offensive Coordinator
+186	Dan Henning	241	Marv Levy	Offensive Coordinator
+186	Dan Henning	400	Tony Sparano	Offensive Coordinator
+192	Bob Hollway	159	Bud Grant	Defensive Coordinator
+192	Bob Hollway	316	Jack Patera	Defensive Coordinator
+193	Mike Holmgren	378	George Seifert	Offensive Coordinator
+193	Mike Holmgren	447	Bill Walsh	Quarterbacks
+200	Ed Hughes	101	Mike Ditka	Offensive Coordinator
+200	Ed Hughes	198	Tommy Hudspeth	Offensive Coordinator
+204	Lindy Infante	161	Forrest Gregg	Offensive Coordinator
+204	Lindy Infante	253	Ted Marchibroda	Offensive Coordinator
+204	Lindy Infante	374	Marty Schottenheimer	Offensive Coordinator
+207	Hue Jackson	51	Tom Cable	Offensive Coordinator
+207	Hue Jackson	177	John Harbaugh	Quarterbacks
+207	Hue Jackson	243	Marvin Lewis	Wide Receivers, Secondary, Offensive Coordinator, Running Backs
+207	Hue Jackson	322	Bobby Petrino	Offensive Coordinator
+207	Hue Jackson	374	Marty Schottenheimer	Running Backs
+207	Hue Jackson	402	Steve Spurrier	Offensive Coordinator, Running Backs
+208	Dick Jauron	82	Tom Coughlin	Defensive Coordinator
+208	Dick Jauron	161	Forrest Gregg	Defensive Backs
+208	Dick Jauron	193	Mike Holmgren	Defensive Backs
+208	Dick Jauron	204	Lindy Infante	Defensive Backs
+208	Dick Jauron	255	Steve Mariucci	Defensive Coordinator/Interim Head Coach, Defensive Coordinator
+208	Dick Jauron	339	Andy Reid	Defensive Backs/Assistant Head Coach
+208	Dick Jauron	390	Pat Shurmur	Defensive Coordinator
+208	Dick Jauron	407	Kay Stephenson	Defensive Assistant
+215	June Jones	156	Jerry Glanville	Offensive Coordinator
+223	Lane Kiffin	82	Tom Coughlin	Defensive Quality Control
+227	Rich Kotite	360	Buddy Ryan	Offensive Coordinator
+227	Rich Kotite	449	Joe Walton	Offensive Coordinator
+229	Aaron Kromer	53	Bill Callahan	Offensive Line
+229	Aaron Kromer	166	Jon Gruden	Asst. OL, Sr. Asst./OL, Senior Assistant
+229	Aaron Kromer	317	Sean Payton	OL/RB, Running Backs, Interim Head Coach/OL/RB
+229	Aaron Kromer	433	Marc Trestman	Offensive Coordinator
+229	Aaron Kromer	437	Norv Turner	Offensive Line
+231	Gary Kubiak	177	John Harbaugh	Offensive Coordinator
+231	Gary Kubiak	378	George Seifert	Quarterbacks
+231	Gary Kubiak	379	Mike Shanahan	Offensive Coordinator/QBs, Offensive Coordinator
+233	Hank Kuhlmann	464	Richard Williamson	Offensive Coordinator
+237	Tom Landry	197	Jim Lee Howell	Defensive Coordinator
+238	Dick LeBeau	80	Bruce Coslet	Defensive Coordinator, Interim Head Coach/Defensive Coordinator
+238	Dick LeBeau	83	Bill Cowher	Defensive Backs, Defensive Coordinator
+238	Dick LeBeau	161	Forrest Gregg	Defensive Backs
+238	Dick LeBeau	263	Mike McCormack	Special Teams
+238	Dick LeBeau	405	Bart Starr	Defensive Backs
+238	Dick LeBeau	431	Mike Tomlin	Defensive Coordinator
+238	Dick LeBeau	462	Gregg Williams	Assistant Head Coach
+238	Dick LeBeau	471	Sam Wyche	Defensive Coordinator
+243	Marvin Lewis	32	Brian Billick	Defensive Coordinator
+243	Marvin Lewis	83	Bill Cowher	Linebackers
+243	Marvin Lewis	253	Ted Marchibroda	Defensive Coordinator
+243	Marvin Lewis	402	Steve Spurrier	Defensive Coordinator
+244	Scott Linehan	146	Jason Garrett	Passing Game Coordinator
+244	Scott Linehan	364	Nick Saban	Offensive Coordinator
+244	Scott Linehan	375	Jim Schwartz	Offensive Coordinator
+244	Scott Linehan	426	Mike Tice	Offensive Coordinator/QBs
+245	Vince Lombardi	197	Jim Lee Howell	Offensive Coordinator
+252	Eric Mangini	21	Bill Belichick	Coaches Assistant, Defensive Backs, Defensive Coordinator
+252	Eric Mangini	176	Jim Harbaugh	Tight Ends, Sr. Offensive Consultant
+252	Eric Mangini	253	Ted Marchibroda	Offensive Assistant/Quality Control
+252	Eric Mangini	313	Bill Parcells	Defensive Assistant/Quality Control
+252	Eric Mangini	432	Jim Tomsula	Defensive Coordinator
+253	Ted Marchibroda	9	Neill Armstrong	Offensive Coordinator
+253	Ted Marchibroda	46	Fred Bruney	Offensive Coordinator
+253	Ted Marchibroda	56	Marion Campbell	Offensive Coordinator
+253	Ted Marchibroda	71	Monte Clark	Offensive Coordinator
+253	Ted Marchibroda	241	Marv Levy	Offensive Coordinator
+254	Rod Marinelli	112	Tony Dungy	Defensive Line
+254	Rod Marinelli	146	Jason Garrett	Defensive Coordinator, Defensive Line
+254	Rod Marinelli	166	Jon Gruden	Assistant Head Coach/Defensive Line
+254	Rod Marinelli	396	Lovie Smith	Assistant Head Coach/Defensive Line, Defensive Coordinator/Asst. Head Coach, Assistant Head Coach/Defensive Coordinator
+255	Steve Mariucci	193	Mike Holmgren	Quarterbacks
+256	Doug Marrone	115	Herman Edwards	Offensive Line
+256	Doug Marrone	317	Sean Payton	Offensive Coordinator
+258	Mike Martz	44	Rich Brooks	Wide Receivers
+258	Mike Martz	224	Chuck Knox	Offensive Assistant, Quarterbacks
+258	Mike Martz	254	Rod Marinelli	Offensive Coordinator
+258	Mike Martz	304	Mike Nolan	Offensive Coordinator
+258	Mike Martz	396	Lovie Smith	Offensive Coordinator
+258	Mike Martz	437	Norv Turner	Quarterbacks
+258	Mike Martz	441	Dick Vermeil	Offensive Coordinator
+260	John Mazur	281	Walt Michaels	Defensive Coordinator
+260	John Mazur	441	Dick Vermeil	Defensive Coordinator
+262	Mike McCarthy	178	Jim Haslett	Offensive Coordinator
+262	Mike McCarthy	304	Mike Nolan	Offensive Coordinator
+262	Mike McCarthy	340	Ray Rhodes	Quarterbacks
+262	Mike McCarthy	374	Marty Schottenheimer	Offensive Assistant/Quality Control, Quarterbacks
+264	Mike McCoy	140	John Fox	Quarterbacks, QB/Passing Game Coord., Offensive Coordinator
+264	Mike McCoy	266	Josh McDaniels	Offensive Coordinator
+264	Mike McCoy	378	George Seifert	Quarterbacks, Wide Receivers
+264	Mike McCoy	414	Eric Studesville	Offensive Coordinator
+266	Josh McDaniels	21	Bill Belichick	Personnel Assistant/Coaching Assistant, Offensive Coordinator/QBs, Offensive Coordinator, Quarterbacks, Coaching Assistant
+266	Josh McDaniels	399	Steve Spagnuolo	Offensive Coordinator/QBs
+269	Dave McGinnis	101	Mike Ditka	Linebackers
+269	Dave McGinnis	133	Jeff Fisher	Assistant Head Coach/Linebackers, Linebackers, Assistant Head Coach
+269	Dave McGinnis	295	Mike Munchak	Assistant Head Coach/Linebackers
+269	Dave McGinnis	428	Vince Tobin	Defensive Coordinator, Interim Head Coach/Defensive Coordinator
+269	Dave McGinnis	450	Dave Wannstedt	Linebackers
+275	Bill McPeak	389	Don Shula	Offensive Coordinator
+279	Ken Meyer	9	Neill Armstrong	Offensive Coordinator
+285	Dick Modzelewski	161	Forrest Gregg	Defensive Coordinator
+285	Dick Modzelewski	276	John McVay	Defensive Coordinator
+286	Gary Moeller	82	Tom Coughlin	Defensive Coordinator
+288	Jim Mora	280	Ron Meyer	Defensive Coordinator
+289	Jim Mora	79	Don Coryell	Defensive Quality Control, Defensive Assistant/Secondary
+289	Jim Mora	119	Dennis Erickson	Defensive Coordinator
+289	Jim Mora	186	Dan Henning	Defensive Backs
+289	Jim Mora	193	Mike Holmgren	Asst. Head Coach/Secondary
+289	Jim Mora	255	Steve Mariucci	Defensive Coordinator, Secondary
+289	Jim Mora	289	Jim Mora	Secondary
+289	Jim Mora	368	Al Saunders	Defensive Assistant/Secondary
+289	Jim Mora	440	Rick Venturi	Secondary
+291	Marty Mornhinweg	193	Mike Holmgren	Offensive Quality Control, Quarterbacks
+291	Marty Mornhinweg	255	Steve Mariucci	Offensive Coordinator/Quarterbacks
+291	Marty Mornhinweg	339	Andy Reid	Assistant Head Coach/Offensive Coordinator, Offensive Coordinator/Assistant Head Coach, Assistant Head Coach, Senior Assistant
+291	Marty Mornhinweg	361	Rex Ryan	Offensive Coordinator
+292	Raheem Morris	166	Jon Gruden	Defensive Quality Control, Defensive Backs, Assistant Defensive Backs, Defensive Assistant
+292	Raheem Morris	379	Mike Shanahan	Secondary
+293	Mike Mularkey	54	Cam Cameron	Tight Ends
+293	Mike Mularkey	83	Bill Cowher	Tight Ends, Offensive Coordinator
+293	Mike Mularkey	364	Nick Saban	Offensive Coordinator
+293	Mike Mularkey	397	Mike Smith	Offensive Coordinator
+293	Mike Mularkey	456	Ken Whisenhunt	Tight Ends
+293	Mike Mularkey	471	Sam Wyche	Quality Control, Tight Ends
+295	Mike Munchak	133	Jeff Fisher	Offensive Line, Offensive Assistant/Quality Control
+295	Mike Munchak	314	Jack Pardee	Offensive Assistant/Quality Control
+295	Mike Munchak	431	Mike Tomlin	Offensive Line
+303	Dick Nolan	31	Ed Biles	Defensive Coordinator
+304	Mike Nolan	32	Brian Billick	Defensive Coordinator, Wide Receivers
+304	Mike Nolan	164	Al Groh	Defensive Coordinator
+304	Mike Nolan	266	Josh McDaniels	Defensive Coordinator
+304	Mike Nolan	338	Dan Reeves	Special Teams/Linebackers, Defensive Coordinator
+304	Mike Nolan	397	Mike Smith	Defensive Coordinator
+304	Mike Nolan	400	Tony Sparano	Defensive Coordinator
+304	Mike Nolan	437	Norv Turner	Defensive Coordinator
+305	Chuck Noll	153	Sid Gillman	Defensive Assistant
+305	Chuck Noll	389	Don Shula	Defensive Backfield
+307	Bill O'Brien	21	Bill Belichick	Offensive Asst., Offensive Coordinator, Quarterbacks, Wide Receivers
+310	Chuck Pagano	91	Butch Davis	Secondary
+310	Chuck Pagano	177	John Harbaugh	Defensive Coordinator, Secondary
+310	Chuck Pagano	382	Art Shell	Secondary
+310	Chuck Pagano	437	Norv Turner	Secondary
+312	Chris Palmer	58	Dom Capers	Offensive Coordinator
+312	Chris Palmer	82	Tom Coughlin	Offensive Coordinator
+312	Chris Palmer	295	Mike Munchak	Offensive Coordinator
+313	Bill Parcells	118	Ron Erhardt	Linebackers
+313	Bill Parcells	319	Ray Perkins	Defensive Coordinator
+314	Jack Pardee	79	Don Coryell	Defensive Coordinator
+317	Sean Payton	125	Jim Fassel	Offensive Coordinator, Quarterbacks
+317	Sean Payton	313	Bill Parcells	Assistant Head Coach/Passing Game Coordinator, Assistant Head Coach/Quarterbacks
+317	Sean Payton	340	Ray Rhodes	Quarterbacks
+319	Ray Perkins	48	Joe Bugel	Offensive Coordinator
+319	Ray Perkins	79	Don Coryell	Offensive Coordinator
+319	Ray Perkins	313	Bill Parcells	Offensive Coordinator
+319	Ray Perkins	333	Tommy Prothro	Offensive Coordinator
+321	Richie Petitbon	148	Joe Gibbs	Defensive Coordinator
+322	Bobby Petrino	82	Tom Coughlin	Quarterbacks, Offensive Coordinator
+323	Mike Pettine	32	Brian Billick	Coaching & Video Asst., Outside Linebackers, Defensive Asst., Asst./Quality Control
+323	Mike Pettine	177	John Harbaugh	Outside Linebackers
+323	Mike Pettine	256	Doug Marrone	Defensive Coordinator
+323	Mike Pettine	361	Rex Ryan	Defensive Coordinator
+324	Jimmy Phelan	412	Red Strader	Offensive Coordinator
+325	Joe Philbin	262	Mike McCarthy	Offensive Coordinator
+326	Bum Phillips	153	Sid Gillman	Defensive Coordinator
+327	Wade Phillips	231	Gary Kubiak	Defensive Coordinator
+327	Wade Phillips	241	Marv Levy	Defensive Coordinator
+327	Wade Phillips	326	Bum Phillips	Linebackers, Defensive Coordinator, Defensive Line
+327	Wade Phillips	338	Dan Reeves	Defensive Coordinator, Defensive Coordinator/Interim Head Coach
+327	Wade Phillips	360	Buddy Ryan	Defensive Coordinator
+327	Wade Phillips	374	Marty Schottenheimer	Defensive Coordinator
+332	Ray Prochaska	224	Chuck Knox	Offensive Coordinator
+334	John Ralston	441	Dick Vermeil	Offensive Coordinator
+337	John Rauch	271	John McKay	Offensive Coordinator
+338	Dan Reeves	237	Tom Landry	Offensive Coordinator
+339	Andy Reid	193	Mike Holmgren	Tight Ends/Asst. Offensive Line, Quarterbacks
+340	Ray Rhodes	193	Mike Holmgren	Defensive Coordinator
+340	Ray Rhodes	378	George Seifert	Defensive Coordinator
+340	Ray Rhodes	379	Mike Shanahan	Defensive Coordinator
+340	Ray Rhodes	437	Norv Turner	Defensive Coordinator
+344	Jim Ringo	49	Hank Bullough	Offensive Coordinator
+344	Jim Ringo	118	Ron Erhardt	Offensive Coordinator
+344	Jim Ringo	241	Marv Levy	Offensive Coordinator
+344	Jim Ringo	407	Kay Stephenson	Offensive Coordinator
+345	Ron Rivera	339	Andy Reid	Linebackers
+345	Ron Rivera	396	Lovie Smith	Defensive Coordinator
+345	Ron Rivera	437	Norv Turner	Defensive Coordinator, Linebackers
+350	Terry Robiskie	54	Cam Cameron	Wide Receivers
+350	Terry Robiskie	85	Romeo Crennel	Wide Receivers
+350	Terry Robiskie	91	Butch Davis	Wide Receivers, Offensive Coordinator/Interim Head Coach
+350	Terry Robiskie	135	Tom Flores	Asst. ST Coach, Asst. RB Coach
+350	Terry Robiskie	379	Mike Shanahan	Offensive Coordinator, Tight Ends
+350	Terry Robiskie	382	Art Shell	Offensive Coordinator
+350	Terry Robiskie	397	Mike Smith	Asst. Head Coach/Wide Receivers, Wide Receivers
+350	Terry Robiskie	437	Norv Turner	Wide Receivers, Passing Game Coordinator/Interim Head Coach, Passing Game Coordinator
+358	Rod Rust	26	Raymond Berry	Defensive Coordinator
+358	Rod Rust	144	Frank Gansz	Defensive Coordinator
+358	Rod Rust	171	Ray Handley	Defensive Coordinator
+358	Rod Rust	215	June Jones	Defensive Coordinator
+358	Rod Rust	241	Marv Levy	Defensive Coordinator
+358	Rod Rust	280	Ron Meyer	Defensive Coordinator
+358	Rod Rust	305	Chuck Noll	Defensive Coordinator
+360	Buddy Ryan	9	Neill Armstrong	Defensive Coordinator
+360	Buddy Ryan	101	Mike Ditka	Defensive Coordinator
+360	Buddy Ryan	122	Weeb Ewbank	Defensive Line
+360	Buddy Ryan	159	Bud Grant	Defensive Line
+360	Buddy Ryan	314	Jack Pardee	Defensive Coordinator
+360	Buddy Ryan	386	Ken Shipp	Defensive Line
+360	Buddy Ryan	468	Charley Winner	Defensive Line
+361	Rex Ryan	32	Brian Billick	Defensive Line, Defensive Coordinator
+361	Rex Ryan	177	John Harbaugh	Defensive Coordinator/Assistant Head Coach
+361	Rex Ryan	360	Buddy Ryan	Defensive Line/Linebackers
+364	Nick Saban	21	Bill Belichick	Defensive Coordinator
+364	Nick Saban	156	Jerry Glanville	Secondary
+368	Al Saunders	3	Dennis Allen	Senior Offensive Assistant
+368	Al Saunders	79	Don Coryell	Wide Receivers
+368	Al Saunders	148	Joe Gibbs	Offensive Coordinator
+368	Al Saunders	177	John Harbaugh	Offensive Consultant
+368	Al Saunders	207	Hue Jackson	Offensive Coordinator
+368	Al Saunders	244	Scott Linehan	Offensive Coordinator
+368	Al Saunders	258	Mike Martz	Asst. Head Coach/Wide Receivers
+368	Al Saunders	374	Marty Schottenheimer	Asst. Head Coach/Wide Receivers
+368	Al Saunders	441	Dick Vermeil	Offensive Coordinator, Asst. Head Coach/Wide Receivers
+370	Greg Schiano	450	Dave Wannstedt	Defensive Assistant, Secondary
+373	Howard Schnellenberger	389	Don Shula	Offensive Coordinator
+374	Marty Schottenheimer	10	Bill Arnsparger	Linebackers Coach
+374	Marty Schottenheimer	71	Monte Clark	Linebackers Coach
+374	Marty Schottenheimer	276	John McVay	Defensive Coordinator, Linebackers Coach
+374	Marty Schottenheimer	359	Sam Rutigliano	Defensive Coordinator
+375	Jim Schwartz	21	Bill Belichick	College/Pro Scout
+375	Jim Schwartz	133	Jeff Fisher	Defensive Coordinator, Linebackers, Defensive Assistant
+375	Jim Schwartz	253	Ted Marchibroda	Defensive Assistant
+375	Jim Schwartz	256	Doug Marrone	Defensive Coordinator
+378	George Seifert	447	Bill Walsh	Defensive Coordinator
+379	Mike Shanahan	338	Dan Reeves	Receivers, Offensive Coordinator, Quarterbacks
+379	Mike Shanahan	378	George Seifert	Offensive Coordinator
+384	Mike Sherman	193	Mike Holmgren	Tight Ends/Assistant Offensive Line, Offensive Coordinator
+384	Mike Sherman	231	Gary Kubiak	Offensive Coordinator, Assistant Head Coach/Offense
+384	Mike Sherman	325	Joe Philbin	Offensive Coordinator
+386	Ken Shipp	326	Bum Phillips	Offensive Coordinator
+387	Jim Shofner	31	Ed Biles	Offensive Coordinator
+387	Jim Shofner	60	Bud Carson	Offensive Coordinator
+387	Jim Shofner	233	Hank Kuhlmann	Offensive Coordinator
+387	Jim Shofner	403	Gene Stallings	Offensive Coordinator
+388	David Shula	212	Jimmy Johnson	Offensive Coordinator
+389	Don Shula	466	George Wilson	Defensive Coordinator
+390	Pat Shurmur	218	Chip Kelly	Offensive Coordinator
+390	Pat Shurmur	339	Andy Reid	Quarterbacks
+390	Pat Shurmur	399	Steve Spagnuolo	Offensive Coordinator
+392	Mike Singletary	32	Brian Billick	Linebackers
+392	Mike Singletary	141	Leslie Frazier	Asst. Head Coach/Linebackers, Assistant Head Coach/Linebackers
+392	Mike Singletary	304	Mike Nolan	Interim Head Coach/Assistant Head Coach/LBs, Assistant Head Coach/Linebackers
+396	Lovie Smith	112	Tony Dungy	Linebackers
+396	Lovie Smith	258	Mike Martz	Defensive Coordinator, Assistant Head Coach/Defensive Coordinator
+397	Mike Smith	32	Brian Billick	Defensive Assistant/Defensive Line, Linebackers
+397	Mike Smith	94	Jack Del Rio	Defensive Coordinator
+399	Steve Spagnuolo	82	Tom Coughlin	Defensive Coordinator
+399	Steve Spagnuolo	177	John Harbaugh	Secondary, Sr. Defensive Asst.
+399	Steve Spagnuolo	317	Sean Payton	Defensive Coordinator
+399	Steve Spagnuolo	339	Andy Reid	Defensive Assistant/Quality Control, Linebackers, Defensive Backs
+400	Tony Sparano	3	Dennis Allen	Asst. Head Coach/Offensive Line, Asst. Head Coach/Offensive Line/Interim Head Coach
+400	Tony Sparano	82	Tom Coughlin	Tight Ends
+400	Tony Sparano	312	Chris Palmer	Offensive Quality Control, Offensive Line
+400	Tony Sparano	313	Bill Parcells	Tight Ends, Offensive Line/Running Game Coordinator
+400	Tony Sparano	327	Wade Phillips	Asst. Head Coach/Offensive Line
+400	Tony Sparano	361	Rex Ryan	Offensive Coordinator
+400	Tony Sparano	374	Marty Schottenheimer	Tight Ends
+404	Dick Stanfel	303	Dick Nolan	Offensive Coordinator
+406	Les Steckel	112	Tony Dungy	Offensive Coordinator
+406	Les Steckel	133	Jeff Fisher	Offensive Coordinator
+407	Kay Stephenson	224	Chuck Knox	Quarterbacks
+414	Eric Studesville	125	Jim Fassel	Running Backs
+414	Eric Studesville	208	Dick Jauron	Running Backs, Offensive Quality Control
+414	Eric Studesville	266	Josh McDaniels	Running Backs
+414	Eric Studesville	293	Mike Mularkey	Running Backs
+414	Eric Studesville	450	Dave Wannstedt	Offensive Quality Control
+415	Chuck Studley	31	Ed Biles	Defensive Coordinator
+415	Chuck Studley	389	Don Shula	Defensive Coordinator
+415	Chuck Studley	447	Bill Walsh	Defensive Coordinator
+418	Harland Svare	245	Vince Lombardi	Defensive Coordinator
+423	Emmitt Thomas	85	Romeo Crennel	Defensive Backs
+423	Emmitt Thomas	148	Joe Gibbs	Wide Receivers, Secondary
+423	Emmitt Thomas	160	Dennis Green	Defensive Coordinator
+423	Emmitt Thomas	169	Todd Haley	Defensive Backs
+423	Emmitt Thomas	172	Jim Hanifan	TE/WR
+423	Emmitt Thomas	289	Jim Mora	Sr. Def. Asst./Secondary
+423	Emmitt Thomas	321	Richie Petitbon	Secondary
+423	Emmitt Thomas	322	Bobby Petrino	Defensive Backs/Interim Head Coach
+423	Emmitt Thomas	338	Dan Reeves	Secondary
+423	Emmitt Thomas	339	Andy Reid	Defensive Backs
+423	Emmitt Thomas	340	Ray Rhodes	Defensive Coordinator
+423	Emmitt Thomas	397	Mike Smith	Asst. Head Coach/Secondary
+423	Emmitt Thomas	437	Norv Turner	Secondary
+426	Mike Tice	94	Jack Del Rio	Assistant Head Coach/Tight Ends, Assistant Head Coach/Offense
+426	Mike Tice	160	Dennis Green	Tight Ends, Interim Head Coach/Offensive Line, Offensive Line
+426	Mike Tice	396	Lovie Smith	Offensive Line, Offensive Coordinator
+426	Mike Tice	397	Mike Smith	Offensive Line
+428	Vince Tobin	101	Mike Ditka	Defensive Coordinator
+428	Vince Tobin	253	Ted Marchibroda	Defensive Coordinator
+428	Vince Tobin	291	Marty Mornhinweg	Defensive Coordinator
+431	Mike Tomlin	66	Brad Childress	Defensive Coordinator
+431	Mike Tomlin	112	Tony Dungy	Defensive Backs
+431	Mike Tomlin	166	Jon Gruden	Defensive Backs
+432	Jim Tomsula	176	Jim Harbaugh	Defensive Line
+432	Jim Tomsula	304	Mike Nolan	Defensive Line
+432	Jim Tomsula	392	Mike Singletary	Defensive Line/Interim Head Coach, Defensive Line
+433	Marc Trestman	50	Jerry Burns	Quarterbacks, Running Backs
+433	Marc Trestman	53	Bill Callahan	Offensive Coordinator
+433	Marc Trestman	60	Bud Carson	Offensive Coordinator
+433	Marc Trestman	159	Bud Grant	Running Backs
+433	Marc Trestman	166	Jon Gruden	Quarterbacks
+433	Marc Trestman	319	Ray Perkins	Quarterbacks
+433	Marc Trestman	355	Bobby Ross	Quarterbacks
+433	Marc Trestman	374	Marty Schottenheimer	Quarterbacks
+433	Marc Trestman	378	George Seifert	Offensive Coordinator
+433	Marc Trestman	428	Vince Tobin	Offensive Coordinator
+433	Marc Trestman	450	Dave Wannstedt	Assistant Head Coach
+435	Mel Tucker	85	Romeo Crennel	Defensive Backs, Defensive Coordinator
+435	Mel Tucker	94	Jack Del Rio	Defensive Coordinator, Offensive Coordinator, Defensive Coordinator/Interim Head Coach
+435	Mel Tucker	293	Mike Mularkey	Defensive Coordinator/Asst. Head Coach
+435	Mel Tucker	433	Marc Trestman	Defensive Coordinator
+437	Norv Turner	68	Rob Chudzinski	Offensive Coordinator
+437	Norv Turner	212	Jimmy Johnson	Offensive Coordinator/QBs
+437	Norv Turner	304	Mike Nolan	Offensive Coordinator
+437	Norv Turner	343	Mike Riley	Offensive Coordinator
+437	Norv Turner	349	John Robinson	Wide Receivers, Wide Receivers/Tight Ends
+437	Norv Turner	450	Dave Wannstedt	Offensive Coordinator
+437	Norv Turner	475	Mike Zimmer	Offensive Coordinator
+440	Rick Venturi	21	Bill Belichick	Defensive Coordinator
+440	Rick Venturi	178	Jim Haslett	Defensive Coordinator
+440	Rick Venturi	202	Hal Hunter	Defensive Coordinator
+440	Rick Venturi	234	Frank Kush	Defensive Coordinator
+440	Rick Venturi	244	Scott Linehan	Defensive Coordinator
+440	Rick Venturi	253	Ted Marchibroda	Defensive Coordinator
+440	Rick Venturi	280	Ron Meyer	Defensive Coordinator
+442	Joe Vitt	88	Gunther Cunningham	Linebackers
+442	Joe Vitt	224	Chuck Knox	Asst. Head Coach/DB, Quality Control/Asst. LB, Safeties
+442	Joe Vitt	253	Ted Marchibroda	Strength/Quality Control
+442	Joe Vitt	258	Mike Martz	Asst. Head Coach/Linebackers, Interim Head Coach/Linebackers
+442	Joe Vitt	263	Mike McCormack	Defensive Quality Control, Strength/Quality Control
+442	Joe Vitt	316	Jack Patera	Defensive Quality Control
+442	Joe Vitt	317	Sean Payton	Assistant Head Coach/Linebackers, Linebackers/Interim Head Coach
+442	Joe Vitt	340	Ray Rhodes	Defensive Backs, Linebackers
+442	Joe Vitt	441	Dick Vermeil	Linebackers
+447	Bill Walsh	45	Paul Brown	Wide Receivers Coach, Quarterbacks Coach
+447	Bill Walsh	333	Tommy Prothro	Offensive Coordinator
+449	Joe Walton	281	Walt Michaels	Offensive Coordinator
+449	Joe Walton	305	Chuck Noll	Offensive Coordinator
+449	Joe Walton	314	Jack Pardee	Offensive Coordinator
+449	Joe Walton	453	Alex Webster	Offensive Coordinator
+450	Dave Wannstedt	143	Chan Gailey	Assistant Head Coach/Linebackers, Defensive Coordinator
+450	Dave Wannstedt	212	Jimmy Johnson	Defensive Coordinator
+450	Dave Wannstedt	370	Greg Schiano	Special Teams
+456	Ken Whisenhunt	83	Bill Cowher	Tight Ends, Offensive Coordinator
+456	Ken Whisenhunt	164	Al Groh	Tight Ends
+456	Ken Whisenhunt	253	Ted Marchibroda	Tight Ends
+456	Ken Whisenhunt	264	Mike McCoy	Offensive Coordinator
+456	Ken Whisenhunt	312	Chris Palmer	Special Teams
+458	Paul Wiggin	303	Dick Nolan	Defensive Coordinator
+462	Gregg Williams	94	Jack Del Rio	Assistant Head Coach/Defensive Coordinator
+462	Gregg Williams	133	Jeff Fisher	Linebackers, Defensive Coordinator, Defensive Coordinator (Suspended indefinitely)
+462	Gregg Williams	148	Joe Gibbs	Assistant Head Coach/Defensive Coordinator
+462	Gregg Williams	295	Mike Munchak	Senior Defensive Assistant
+462	Gregg Williams	314	Jack Pardee	Defensive Quality Control, Linebackers, Special Teams
+462	Gregg Williams	317	Sean Payton	Defensive Coordinator
+464	Richard Williamson	378	George Seifert	Offensive Coordinator
+465	Ray Willsey	79	Don Coryell	Defensive Coordinator
+475	Mike Zimmer	57	Dave Campo	Defensive Coordinator
+475	Mike Zimmer	143	Chan Gailey	Defensive Backs Coach
+475	Mike Zimmer	243	Marvin Lewis	Defensive Coordinator
+475	Mike Zimmer	313	Bill Parcells	Defensive Coordinator
+475	Mike Zimmer	322	Bobby Petrino	Defensive Coordinator
+475	Mike Zimmer	419	Barry Switzer	Assistant Coach, Defensive Backs Coach
+476	Jim Zorn	85	Romeo Crennel	Quarterbacks
+476	Jim Zorn	119	Dennis Erickson	Offensive Assistant
+476	Jim Zorn	169	Todd Haley	Quarterbacks
+476	Jim Zorn	177	John Harbaugh	Quarterbacks
+476	Jim Zorn	193	Mike Holmgren	Quarterbacks
+476	Jim Zorn	286	Gary Moeller	Quarterbacks
+476	Jim Zorn	355	Bobby Ross	Quarterbacks
