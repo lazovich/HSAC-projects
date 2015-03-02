@@ -1,11 +1,11 @@
 coach_id	coach_name	workedfor_id	workedfor_name	role
 3	Dennis Allen	140	John Fox	Defensive Coordinator
-3	Dennis Allen	289	Jim Mora	Defensive Assistant/Quality Control
+3	Dennis Allen	289	Jim L. Mora	Defensive Assistant/Quality Control
 3	Dennis Allen	317	Sean Payton	Asst. Defensive Line, Secondary
 3	Dennis Allen	338	Dan Reeves	Defensive Assistant/Quality Control
 7	Bruce Arians	83	Bill Cowher	Wide Receivers
 7	Bruce Arians	91	Butch Davis	Offensive Coordinator
-7	Bruce Arians	289	Jim Mora	Tight Ends, Quarterbacks
+7	Bruce Arians	288	Jim E. Mora	Tight Ends, Quarterbacks
 7	Bruce Arians	310	Chuck Pagano	Offensive Coordinator/Interim Head Coach
 7	Bruce Arians	374	Marty Schottenheimer	Running Backs
 7	Bruce Arians	431	Mike Tomlin	Offensive Coordinator
@@ -39,7 +39,7 @@ coach_id	coach_name	workedfor_id	workedfor_name	role
 36	Todd Bowles	400	Tony Sparano	Asst. Head Coach/Secondary, Interim Head Coach/Secondary
 37	Gus Bradley	59	Pete Carroll	Defensive Coordinator
 37	Gus Bradley	166	Jon Gruden	Defensive Quality Control Asst., Linebackers Coach
-37	Gus Bradley	289	Jim Mora	Defensive Coordinator
+37	Gus Bradley	289	Jim L. Mora	Defensive Coordinator
 44	Rich Brooks	338	Dan Reeves	Defensive Coordinator
 46	Fred Bruney	56	Marion Campbell	Defensive Coordinator
 46	Fred Bruney	318	Pat Peppler	Defensive Coordinator
@@ -56,7 +56,7 @@ coach_id	coach_name	workedfor_id	workedfor_name	role
 50	Jerry Burns	406	Les Steckel	Offensive Coordinator
 51	Tom Cable	59	Pete Carroll	Assistant Head Coach/Offensive Line
 51	Tom Cable	223	Lane Kiffin	Offensive Line/Interim Head Coach, Offensive Line
-51	Tom Cable	289	Jim Mora	Offensive Line
+51	Tom Cable	289	Jim L. Mora	Offensive Line
 52	Jim Caldwell	112	Tony Dungy	Quarterbacks, Assistant Head Coach/Quarterbacks
 52	Jim Caldwell	177	John Harbaugh	Offensive Coordinator, Quarterbacks/Interim Offensive Coordinator
 53	Bill Callahan	146	Jason Garrett	Offensive Coordinator/Offensive Line, Offensive Coordinator
@@ -81,7 +81,7 @@ coach_id	coach_name	workedfor_id	workedfor_name	role
 58	Dom Capers	82	Tom Coughlin	Defensive Coordinator
 58	Dom Capers	83	Bill Cowher	Defensive Coordinator
 58	Dom Capers	262	Mike McCarthy	Defensive Coordinator
-58	Dom Capers	289	Jim Mora	Defensive Backs
+58	Dom Capers	288	Jim E. Mora	Defensive Backs
 58	Dom Capers	364	Nick Saban	Defensive Coordinator
 59	Pete Carroll	50	Jerry Burns	Defensive Backs
 59	Pete Carroll	80	Bruce Coslet	Defensive Coordinator
@@ -216,7 +216,7 @@ coach_id	coach_name	workedfor_id	workedfor_name	role
 177	John Harbaugh	340	Ray Rhodes	Special Teams Coordinator
 178	Jim Haslett	83	Bill Cowher	Defensive Coordinator
 178	Jim Haslett	244	Scott Linehan	Interim HC/Defensive Coordinator, Defensive Coordinator
-178	Jim Haslett	289	Jim Mora	Defensive Coordinator, Linebackers
+178	Jim Haslett	288	Jim E. Mora	Defensive Coordinator, Linebackers
 178	Jim Haslett	379	Mike Shanahan	Defensive Coordinator
 178	Jim Haslett	382	Art Shell	Linebackers
 178	Jim Haslett	440	Rick Venturi	Defensive Coordinator
@@ -325,15 +325,15 @@ coach_id	coach_name	workedfor_id	workedfor_name	role
 285	Dick Modzelewski	161	Forrest Gregg	Defensive Coordinator
 285	Dick Modzelewski	276	John McVay	Defensive Coordinator
 286	Gary Moeller	82	Tom Coughlin	Defensive Coordinator
-288	Jim Mora	280	Ron Meyer	Defensive Coordinator
-289	Jim Mora	79	Don Coryell	Defensive Quality Control, Defensive Assistant/Secondary
-289	Jim Mora	119	Dennis Erickson	Defensive Coordinator
-289	Jim Mora	186	Dan Henning	Defensive Backs
-289	Jim Mora	193	Mike Holmgren	Asst. Head Coach/Secondary
-289	Jim Mora	255	Steve Mariucci	Defensive Coordinator, Secondary
-289	Jim Mora	289	Jim Mora	Secondary
-289	Jim Mora	368	Al Saunders	Defensive Assistant/Secondary
-289	Jim Mora	440	Rick Venturi	Secondary
+288	Jim E. Mora	280	Ron Meyer	Defensive Coordinator
+289	Jim L. Mora	79	Don Coryell	Defensive Quality Control, Defensive Assistant/Secondary
+289	Jim L. Mora	119	Dennis Erickson	Defensive Coordinator
+289	Jim L. Mora	186	Dan Henning	Defensive Backs
+289	Jim L. Mora	193	Mike Holmgren	Asst. Head Coach/Secondary
+289	Jim L. Mora	255	Steve Mariucci	Defensive Coordinator, Secondary
+289	Jim L. Mora	288	Jim E. Mora	Secondary
+289	Jim L. Mora	368	Al Saunders	Defensive Assistant/Secondary
+289	Jim L. Mora	440	Rick Venturi	Secondary
 291	Marty Mornhinweg	193	Mike Holmgren	Offensive Quality Control, Quarterbacks
 291	Marty Mornhinweg	255	Steve Mariucci	Offensive Coordinator/Quarterbacks
 291	Marty Mornhinweg	339	Andy Reid	Assistant Head Coach/Offensive Coordinator, Offensive Coordinator/Assistant Head Coach, Assistant Head Coach, Senior Assistant
@@ -506,7 +506,7 @@ coach_id	coach_name	workedfor_id	workedfor_name	role
 423	Emmitt Thomas	160	Dennis Green	Defensive Coordinator
 423	Emmitt Thomas	169	Todd Haley	Defensive Backs
 423	Emmitt Thomas	172	Jim Hanifan	TE/WR
-423	Emmitt Thomas	289	Jim Mora	Sr. Def. Asst./Secondary
+423	Emmitt Thomas	289	Jim L. Mora	Sr. Def. Asst./Secondary
 423	Emmitt Thomas	321	Richie Petitbon	Secondary
 423	Emmitt Thomas	322	Bobby Petrino	Defensive Backs/Interim Head Coach
 423	Emmitt Thomas	338	Dan Reeves	Secondary
